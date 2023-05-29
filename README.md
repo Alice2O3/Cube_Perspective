@@ -6,7 +6,7 @@
 
 A computer graphic demo for learning perspective, vanishing points of boxes at different angle.
 
-**Image Source:** Avatar of [https://www.artstation.com/krenz](https://www.artstation.com/krenz) (Support him is possible!)
+**Image Source:** Avatar of Krenz Cushart [https://www.artstation.com/krenz](https://www.artstation.com/krenz) (Support him is possible!)
 
 <div align=center>
     <img src="img/Boxes.png" width = "600" height = "600">
