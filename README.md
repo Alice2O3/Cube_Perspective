@@ -8,6 +8,10 @@ A computer graphic demo for learning perspective, vanishing points of boxes at d
 
 **Image Source:** Avatar of [https://www.artstation.com/krenz](https://www.artstation.com/krenz) (Support him is possible!)
 
+<div align=center>
+    <img src="img/boxes.png" width = "1600" height = "1600">
+</div>
+
 ## Usage
 
 This project runs on Windows (x64) and is build with C++ using OpenGL library. You can just download the release or manually build it.
@@ -64,8 +68,8 @@ git clone https://github.com/Alice2O3/Cube_Perspective.git
 - `1`: Change Rotating Mode to Euler Rotation
 - `2`: Change Rotating Mode to Free Rotation
 
-## HUD
+## HUD/Gizmo
 
 The HUD will show the angle of the cube and camera, and the width/height of the window by pixel.
 
-Scaling the width of the window will not affect the relative position of the vanishing points, but scaling the height of the window can.
+The Gizmo will show the vanishing points of each side of the cube. Scaling the width of the window will not affect the relative position of the vanishing points, but scaling the height of the window can.
