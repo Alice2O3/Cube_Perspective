@@ -9,7 +9,7 @@ A computer graphic demo for learning perspective, vanishing points of boxes at d
 **Image Source:** Avatar of [https://www.artstation.com/krenz](https://www.artstation.com/krenz) (Support him is possible!)
 
 <div align=center>
-    <img src="img/Boxes.png" width = "1600" height = "1600">
+    <img src="img/Boxes.png" width = "600" height = "600">
 </div>
 
 ## Usage
