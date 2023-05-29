@@ -398,4 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Final Build
-run/
+run/*.exe
