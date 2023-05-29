@@ -348,7 +348,6 @@ void SceneManager::Scene_Render() {
 
 void SceneManager::Register_Functions() {
 	Keyboard_Events_Down_Map = {
-		{ 27,  [&]() { ReturnToThird(); } }, //ESCAPE KEY
 		{ 'p', [&]() { Toggle_Pause(); } },
 		{ 'r', [&]() { Reset_Position_Animation(); } },
 		{ '[', [&]() { Change_MoveSpeed(-1); } },
@@ -358,7 +357,6 @@ void SceneManager::Register_Functions() {
 		{ ';', [&]() { Change_CubeRotateSpeed(-1); } },
 		{ '\'',[&]() { Change_CubeRotateSpeed(1); } },
 		{ '/', [&]() { Reset_World(); } },
-		{ '0', [&]() { ReturnToFirst(); } },
 		{ '1', [&]() { Change_Mode(RotateMode::EULER_ROTATION); } },
 		{ '2', [&]() { Change_Mode(RotateMode::FREE_ROTATION); } }
 	};
