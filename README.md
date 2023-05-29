@@ -72,4 +72,4 @@ git clone https://github.com/Alice2O3/Cube_Perspective.git
 
 The HUD will show the angle of the cube and camera, and the width/height of the window by pixel.
 
-The Gizmo will show the vanishing points of each side of the cube. Scaling the width of the window will not affect the relative position of the vanishing points, but scaling the height of the window can.
+The Gizmo will show the vanishing points of each side of the cube. Scaling the width of the window will not affect the relative position of the vanishing points, but scaling the height of the window will.
